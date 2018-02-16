@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: darkgray;
+}
+
+div {
+    max-width: 500px;
+}
+
+div.center {
+    min-width: 100%;
+}
+
+div.buttons {
+    margin-top: 10px;
+}
+
+div.head {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+div.main {
+    background-color: white;
+    padding: 5px;
+    min-height: 50px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: solid; 
+    border-width: 2px;
+    border-color: navy;
+}
+
+div.title {
+    background-color: navy;
+    color: white;
+    max-width: 500px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 10px;
+    margin: 0;
+}
+
+input.data {
+    margin: 0 auto; 
+    width: 100%;
+    padding-left: 5px; 
+    padding-right: 5px;
+}
